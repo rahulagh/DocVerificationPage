@@ -1,10 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
-import { motion } from 'framer-motion';  // Import Framer Motion for animations
+// import { motion } from 'framer-motion';  // Import Framer Motion for animations
 import { useNavigate } from 'react-router-dom';
 
 
-const ConfirmationContainer = styled(motion.div)`
+const ConfirmationContainer = styled.div`
   text-align: center;
   padding: 3rem;
   background-color: white;
