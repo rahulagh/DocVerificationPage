@@ -1,0 +1,9 @@
+{
+    "mongoURI": "mongodb+srv://rahulkrgupta18032003:Rahul%402003@cluster0.ns3awbj.mongodb.net/docVerificationPage",
+    "wasabi": {
+      "endpoint": "s3.wasabisys.com",
+      "accessKeyId": "YOUR_WASABI_ACCESS_KEY",
+      "secretAccessKey": "YOUR_WASABI_SECRET_KEY",
+      "bucketName": "your-bucket-name"
+    }
+  }
